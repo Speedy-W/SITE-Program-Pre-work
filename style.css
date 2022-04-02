@@ -1,0 +1,111 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 2rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #87CEFA;
+    color: black; 
+}
+
+h1{
+  font-family: verdana, arial, sans-serif; 
+  color: black;
+  text-align: center;
+}
+h2{
+  font-family: verdana, arial, sans-serif; 
+  color: black;
+  text-align: right;
+}
+button{
+  padding: 10px;
+  border-radius: 10px;
+  
+}
+#startBtn{
+  background : limegreen;
+}
+#stopBtn{
+  background : crimson;
+  color : white;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:10px;
+  border-radius: 200px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1{
+  background : #e16768;
+}
+#button1:active, #button1.lit {
+    background: red;
+    padding: 10px;
+    border-radius: 100px;
+}
+#button2{
+  background : 	#b0dab0;
+}
+#button2:active, #button2.lit {
+    background: green;
+    padding: 10px;
+    border-radius: 200px;
+}
+#button3{
+  background : #e0c87c;
+}
+#button3:active, #button3.lit {
+    background: gold;
+    padding: 10px;
+    border-radius: 200px;
+}
+#button4{
+  background :	#f49c5f;
+}
+#button4:active, #button4.lit {
+    background: darkorange; 
+    padding: 10px;
+    border-radius: 200px;
+}
+#button5{
+  background : 		#938874;
+}
+#button5:active, #button5.lit {
+    background: saddlebrown;
+    padding: 10px;
+    border-radius: 200px;
+}
+#button6{
+  background : 	#8e6aa6	;
+}
+#button6:active, #button6.lit {
+    background: darkviolet;
+    padding: 10px;
+    border-radius: 200px;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
