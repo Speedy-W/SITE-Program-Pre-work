@@ -76,8 +76,7 @@ https://raw.githubusercontent.com/Speedy-W/SITE-Program-Pre-work/main/Light%26So
    a result, I'd be quite interested in diving into this type of engineering and seeing what I could come up
    with once I've learned more about CSS attributes. In addition, I'd like to learn more about JavaScript as
    a programming language. Many applications and programs, understandably, are far more complex than this
-   simple light and sound memory game. As a result, different processes must be used in backend development,
-   and I'd like to see this in action.
+   light and sound memory game.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
   
