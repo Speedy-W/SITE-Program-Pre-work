@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x]https://github.com/Speedy-W/SITE-Program-Pre-work/raw/main/Light%26Sound_Memory_Game.gif
+https://github.com/Speedy-W/SITE-Program-Pre-work/raw/main/Light%26Sound_Memory_Game.gif
 
 
 ## Reflection Questions
