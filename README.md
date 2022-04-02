@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-https://raw.githubusercontent.com/Speedy-W/SITE-Program-Pre-work/main/Light%26Sound_Memory_Game.gif
+![](https://raw.githubusercontent.com/Speedy-W/SITE-Program-Pre-work/main/Light%26Sound_Memory_Game.gif)
 
 
 ## Reflection Questions
